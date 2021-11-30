@@ -8,7 +8,7 @@
 - 👯 I'm looking to join a multidisciplinary team where I can learn from it and do my best.
 - 🥅 2021 Goals: Become a Full Stack Developer ✅
 - ✨ 2022 Goals: Get my first job as a developer.
-- ⚡ Fun fact: I live in Barcelona and work at SEAT car factory as an Electronic Engineer.
+- ⚡ Fun fact: I am an argentinian-italian guy living in Barcelona and working at SEAT car factory as an Electronic Engineer.
 
 ### 🧑🏻‍💻 Technologies that I use:
 
