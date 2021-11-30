@@ -4,7 +4,7 @@
 <br>
 
 - 🔭 I’m currently looking for my very first job in the IT world.
-- 🌱 I’m currently learning PHP & Laravel at [UTN](https://utn.edu.ar/es/). Moreover, I am part of a Java team at [Alkemy](https://www.alkemy.org), an accelerator of It profiles.
+- 🌱 I’m currently learning PHP & Laravel at [UTN](https://utn.edu.ar/es/). Moreover, I am part of a Java team at [Alkemy](https://www.alkemy.org), an accelerator of IT profiles.
 - 👯 I'm looking to join a multidisciplinary team where I can learn from it and do my best.
 - 🥅 2021 Goals: Become a Full Stack Developer ✅
 - ✨ 2022 Goals: Get my first job as a developer.
